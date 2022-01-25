@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>robertducky3.jpg</filename>
+    <path>c:\Users\mpe_0\DA\Resources\Annotations-Handling-Exercise\2.Creating_Annotations\images\robertducky3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>853</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ducky</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>353</xmin>
+            <ymin>297</ymin>
+            <xmax>467</xmax>
+            <ymax>401</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>uss_minion_frame_0_CAP</filename>
+    <path>C:\Users\mpe_0\DA\projects\Copy_paste_Image_Augmentation\github_reference\CAP_augmentation\saved\Images\uss_minion_frame_0_CAP</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bag</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>1014</ymin>
+            <xmax>155</xmax>
+            <ymax>1239</ymax>
+        </bndbox>
+    </object>
+</annotation>
