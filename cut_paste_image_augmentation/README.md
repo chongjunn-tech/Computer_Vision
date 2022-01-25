@@ -3,7 +3,7 @@
 ## Description
 - This repo was with reference to RocketFlash's [CAP_augmentation](https://github.com/RocketFlash/CAP_augmentation)
   where easy to use Python implementation of "Cut and paste" augmentation for object detection and instance and semantic segmentations. The main idea was taken from [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation](https://arxiv.org/pdf/2012.07177v1.pdf)
-- This repo just added the capability of saving images and annotations in XML annotation (Pascal VOC format)
+- This repo added the capability of saving images and annotations in XML annotation (Pascal VOC format)
 
 ## Installation
 Conda
