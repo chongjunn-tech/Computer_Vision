@@ -1,6 +1,7 @@
 # Computer_Vision
 - Document the computer vision projects that I have attempted so far
-## ["Cut and paste" augmentation]()
+
+## ["Cut and paste" augmentation](https://github.com/chongjunn-tech/Computer_Vision/tree/master/cut_paste_image_augmentation)
 - Easy to use Python implementation of "Cut and paste" augmentation for object detection
 - The main idea was taken from [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation](https://arxiv.org/pdf/2012.07177v1.pdf)
 - - This repo added the capability of saving images and annotations in XML annotation (Pascal VOC format)
